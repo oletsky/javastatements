@@ -16,6 +16,9 @@ public class DemoSwitch {
             case 3:
                 System.out.println("Three");
                 break;
+            default:
+                System.out.println("No suitable actions");
+                break;
         }
 
     }
