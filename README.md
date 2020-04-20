@@ -1,2 +1,2 @@
 # statements
-Illustrating tricky things about Java statements
+Illustrating tricky and other things about Java statements
